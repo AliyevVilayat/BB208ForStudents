@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\BB208LibraryManagement\BB208LibraryManagement\bin\Debug\net8.0\BB208LibraryManagement.exe
+C:\Users\User\source\repos\BB208LibraryManagement\BB208LibraryManagement\bin\Debug\net8.0\BB208LibraryManagement.deps.json
+C:\Users\User\source\repos\BB208LibraryManagement\BB208LibraryManagement\bin\Debug\net8.0\BB208LibraryManagement.runtimeconfig.json
+C:\Users\User\source\repos\BB208LibraryManagement\BB208LibraryManagement\bin\Debug\net8.0\BB208LibraryManagement.dll
+C:\Users\User\source\repos\BB208LibraryManagement\BB208LibraryManagement\bin\Debug\net8.0\BB208LibraryManagement.pdb
+C:\Users\User\source\repos\BB208LibraryManagement\BB208LibraryManagement\obj\Debug\net8.0\BB208LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BB208LibraryManagement\BB208LibraryManagement\obj\Debug\net8.0\BB208LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BB208LibraryManagement\BB208LibraryManagement\obj\Debug\net8.0\BB208LibraryManagement.AssemblyInfo.cs
+C:\Users\User\source\repos\BB208LibraryManagement\BB208LibraryManagement\obj\Debug\net8.0\BB208LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BB208LibraryManagement\BB208LibraryManagement\obj\Debug\net8.0\BB208LibraryManagement.dll
+C:\Users\User\source\repos\BB208LibraryManagement\BB208LibraryManagement\obj\Debug\net8.0\refint\BB208LibraryManagement.dll
+C:\Users\User\source\repos\BB208LibraryManagement\BB208LibraryManagement\obj\Debug\net8.0\BB208LibraryManagement.pdb
+C:\Users\User\source\repos\BB208LibraryManagement\BB208LibraryManagement\obj\Debug\net8.0\BB208LibraryManagement.genruntimeconfig.cache
+C:\Users\User\source\repos\BB208LibraryManagement\BB208LibraryManagement\obj\Debug\net8.0\ref\BB208LibraryManagement.dll

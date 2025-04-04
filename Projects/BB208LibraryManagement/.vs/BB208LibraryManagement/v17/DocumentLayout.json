@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BB208LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82CE6F31-571C-41CE-8226-11F073CC1C3D}|BB208LibraryManagement\\BB208LibraryManagement.csproj|c:\\users\\user\\source\\repos\\bb208librarymanagement\\bb208librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CE6F31-571C-41CE-8226-11F073CC1C3D}|BB208LibraryManagement\\BB208LibraryManagement.csproj|solutionrelative:bb208librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CE6F31-571C-41CE-8226-11F073CC1C3D}|BB208LibraryManagement\\BB208LibraryManagement.csproj|c:\\users\\user\\source\\repos\\bb208librarymanagement\\bb208librarymanagement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CE6F31-571C-41CE-8226-11F073CC1C3D}|BB208LibraryManagement\\BB208LibraryManagement.csproj|solutionrelative:bb208librarymanagement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CE6F31-571C-41CE-8226-11F073CC1C3D}|BB208LibraryManagement\\BB208LibraryManagement.csproj|c:\\users\\user\\source\\repos\\bb208librarymanagement\\bb208librarymanagement\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CE6F31-571C-41CE-8226-11F073CC1C3D}|BB208LibraryManagement\\BB208LibraryManagement.csproj|solutionrelative:bb208librarymanagement\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BB208LibraryManagement\\BB208LibraryManagement\\Genre.cs",
+              "RelativeDocumentMoniker": "BB208LibraryManagement\\Genre.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BB208LibraryManagement\\BB208LibraryManagement\\Genre.cs",
+              "RelativeToolTip": "BB208LibraryManagement\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T15:29:29.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BB208LibraryManagement\\BB208LibraryManagement\\Book.cs",
+              "RelativeDocumentMoniker": "BB208LibraryManagement\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BB208LibraryManagement\\BB208LibraryManagement\\Book.cs",
+              "RelativeToolTip": "BB208LibraryManagement\\Book.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T15:16:03.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BB208LibraryManagement\\BB208LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "BB208LibraryManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BB208LibraryManagement\\BB208LibraryManagement\\Program.cs",
+              "RelativeToolTip": "BB208LibraryManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T15:14:31.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
